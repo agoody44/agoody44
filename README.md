@@ -10,4 +10,4 @@ I’m a Software Engineer with a background in Healthcare. I use my experience i
 
 HTML5 | CSS3 | Javascript | jQuery | Git | Github | AJAX | Node.js | Express | MongoDb | Mongoose | Ruby | Ruby on Rails | Bootstrap | React.js | Heroku | Postman | PostgreSQL | Python | Django 
 
-Add me https://www.linkedin.com/in/alyssa-goodhue/
+
