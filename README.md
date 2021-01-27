@@ -4,7 +4,7 @@
 
 ## About me
 
-I’m a Software Engineer with a background in Healthcare. I use my experience in Healthcare in combination with a Software Engineer to make working and communicating with my team better. My goal is to be able to work with my team and to finish projects in a timely manner. By combining these two skills, I will achieve my goals.
+I’m a Software Engineer with a background in Healthcare. My previous industry relies on immense attention to detail, one which I bring forward to development to ensure quality and sustainable code.
 
 ## Technologies that I use: 
 
