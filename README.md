@@ -11,4 +11,4 @@ I’m a Software Engineer with a background in Healthcare. I use my experience i
 HTML5 | CSS3 | Javascript | jQuery | Git | Github | AJAX | Node.js | Express | MongoDb | Mongoose | Ruby | Ruby on Rails | Bootstrap | React.js | Heroku | Postman | PostgreSQL | Python | Django 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoody44)](https://github.com/agoody44/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoody44&layout=compact)](https://github.com/agoody44/github-readme-stats)
